@@ -17,6 +17,8 @@ public class Countnumberdigit {
 		}
     System.out.println(count);
     System.out.println("THis is the count");
+    System.out.println("THis is the count1");
+    System.out.println("THis is the count2");
 	}
 
 }
